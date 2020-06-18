@@ -1,5 +1,12 @@
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
+[![issues][issue-image]][issue-url]
+
+
+[issue-image]: https://img.shields.io/badge/issue-issues-brightgreen
+[issue-url]: https://img.shields.io/github/issues-raw/DerHappygamer/github-slideshow
+
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
 
 Oh! I haven't introduced myself...
