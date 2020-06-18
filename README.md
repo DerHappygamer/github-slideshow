@@ -4,7 +4,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/DerHappygamer/github-slideshow)
 
 [issue-image]: https://img.shields.io/badge/issue-issues-brightgreen
-[issue-url]: https://img.shields.io/github/issues-raw/DerHappygamer/github-slideshow
+[issue-url]: https://img.shields.io/github/issues/DerHappygamer/github-slideshow
+
 
 
 
